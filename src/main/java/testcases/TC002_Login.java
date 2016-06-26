@@ -12,7 +12,7 @@ public class TC002_Login extends OpentapsWrappers{
 	@BeforeClass
 	public void setData(){
 		testCaseName = "TC002 - Login (Negative)";
-		testDescription = "Login to OpenTaps(Negative)";
+		testDescription = "Login to OpenTaps Using POM(Negative)";
 		browserName = "chrome";
 		dataSheetName = "TC002";
 
